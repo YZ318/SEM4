@@ -1,12 +1,34 @@
-﻿Console.WriteLine("Введите число:");
-int number = int.Parse(Console.ReadLine());
-
-if (number < 100 || number > 999)
+﻿int Prompt(string message)
 {
-    Console.WriteLine("Третьей цифры нет.");
+    Console.Write(message);
+    string value = Console.ReadLine();
+    int result = Convert.ToInt32(value);
+    return result;
 }
-else
+
+int GetThirdRank(int number)
 {
-    int thirdDigit = (number % 100) % 10;
-    Console.WriteLine("Третья цифра введенного числа: " + thirdDigit);
+    while (number > 999)
+    {
+        number /= 10;
+    }
+    return number % 10;
+
+}
+
+bool ValidateNumber(int number)
+{
+    if (number < 100)
+    {
+        Console.WriteLine("Третьей цифры нет");
+        return false;
+    }
+    return true;
+
+}
+
+int number = Prompt("Введите число > ");
+if (ValidateNumber(number))
+{
+    Console.WriteLine(GetThirdRank(number));
 }
