@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Geek Brains\Sem2\home13\bin\Debug\net6.0\home13.exe
+C:\Users\1\Desktop\Geek Brains\Sem2\home13\bin\Debug\net6.0\home13.deps.json
+C:\Users\1\Desktop\Geek Brains\Sem2\home13\bin\Debug\net6.0\home13.runtimeconfig.json
+C:\Users\1\Desktop\Geek Brains\Sem2\home13\bin\Debug\net6.0\home13.dll
+C:\Users\1\Desktop\Geek Brains\Sem2\home13\bin\Debug\net6.0\home13.pdb
+C:\Users\1\Desktop\Geek Brains\Sem2\home13\obj\Debug\net6.0\home13.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Geek Brains\Sem2\home13\obj\Debug\net6.0\home13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Geek Brains\Sem2\home13\obj\Debug\net6.0\home13.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Geek Brains\Sem2\home13\obj\Debug\net6.0\home13.AssemblyInfo.cs
+C:\Users\1\Desktop\Geek Brains\Sem2\home13\obj\Debug\net6.0\home13.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Geek Brains\Sem2\home13\obj\Debug\net6.0\home13.dll
+C:\Users\1\Desktop\Geek Brains\Sem2\home13\obj\Debug\net6.0\refint\home13.dll
+C:\Users\1\Desktop\Geek Brains\Sem2\home13\obj\Debug\net6.0\home13.pdb
+C:\Users\1\Desktop\Geek Brains\Sem2\home13\obj\Debug\net6.0\home13.genruntimeconfig.cache
+C:\Users\1\Desktop\Geek Brains\Sem2\home13\obj\Debug\net6.0\ref\home13.dll
